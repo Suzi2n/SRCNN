@@ -6,9 +6,9 @@
 
 
 자료
-• super_resolution_code.zip
-  • train.py: 학습 관련 코드
-  • test.py: 테스트 관련 코드
+super_resolution_code.zip
+  train.py: 학습 관련 코드
+  test.py: 테스트 관련 코드
   • models.py: 모델 관련 코드
   • datasets.py: 데이터 로더 관련 코드
 (데이터 전처리및데이터불러오는과정포함)
@@ -19,6 +19,8 @@
 
 
 ![image](https://github.com/Suzi2n/SRCNN/assets/102611647/6bc10a01-4ce1-470a-b0f7-bea7b6626148)
+
+
 model.py 를 수정하여 SRCNN 구현하는 것이 과제의 목표
 
 
